@@ -1,0 +1,6 @@
+Bang Test Keyframes
+
+STAND: 5 - 13
+DRAW/ SHOOT: 15 - 25
+WIN: 30 - 40
+LOSE: 45 - 55

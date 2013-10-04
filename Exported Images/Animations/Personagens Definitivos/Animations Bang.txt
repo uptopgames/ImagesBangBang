@@ -1,0 +1,31 @@
+Bang Animations
+
+Stand
+0 - 10
+
+Draw
+15 - 20
+
+Win 1
+25 - 35
+
+Win 2
+40 - 82
+
+Win 3
+85 - 105
+
+Win 4
+220 - 265
+
+Win 5
+270 - 300
+
+Lose 1
+110 - 130
+
+Lose 2
+135 - 160
+
+Lose 3 (Feet Loop)
+165 - (180 - 188) Quando levar o tiro (189 - 210)
